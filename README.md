@@ -137,7 +137,7 @@ searchQuery
 Clone the repository
 
 ```
-git clone https://github.com/yourusername/android-kotlin-flow-playground.git
+git clone https://github.com/SyedAhmed96/kotlin-flow-playground.git
 ```
 
 Open the project in Android Studio and run the application.
